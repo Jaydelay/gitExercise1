@@ -11,6 +11,8 @@ namespace gitExercise1
         public static void hello()
         {
             Console.WriteLine("method 'hello' says: hello");
+            Console.WriteLine("This is a change");
+            Console.WriteLine("This is also a change");
         }
     }
 }
