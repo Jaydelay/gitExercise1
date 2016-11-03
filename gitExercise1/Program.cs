@@ -11,6 +11,8 @@ namespace gitExercise1
         static void Main(string[] args)
         {
             Console.WriteLine("hello from Main!");
+            Console.WriteLine("Change #1");
+            Console.WriteLine("Change #2");
             MyClass.hello();
         }
     }
