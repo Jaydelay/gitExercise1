@@ -15,6 +15,7 @@ namespace gitExercise1
             Console.WriteLine("Change #2");
             Console.WriteLine("Change #3");
             Console.WriteLine("Change #4");
+            Console.WriteLine("This is my last change in Main!");
             MyClass.hello();
         }
     }
